@@ -1,0 +1,30 @@
+.box{
+    padding: 20px 20px 10px 20px; 
+}
+.picbox{
+    padding: 5px;
+}
+.picbox img{
+    width: 100%;
+    border-radius: 10px;
+}
+.myname{
+    text-align: center;
+    font-family:"Courier New",monospace;
+    font-weight: bold;
+    font-size: 50px;
+}
+.myinform{
+    font-size: 30px;
+    color: #000000;
+}
+.boxtitle{
+    font-weight: bold;
+    font-size: 40px;
+}
+.hr2{
+    border: 3px solid #000000;
+}
+.school:hover {
+    background-color: #cbd797;
+}
